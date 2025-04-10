@@ -2,5 +2,7 @@ package main
 
 func main() {
 	// FindDuplicate()
-	FirstDuplicate()
+	// FirstDuplicate()
+	//merged := Merge(a, 3, b, 3)
+	MergeSorted()
 }
