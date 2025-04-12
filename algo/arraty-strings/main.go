@@ -6,5 +6,7 @@ func main() {
 	//merged := Merge(a, 3, b, 3)
 	// MergeSorted()
 	// RemoveEls()
-	RemoveDups()
+	// RemoveDups()
+
+	RemoveDupsSorted()
 }
