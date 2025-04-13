@@ -7,6 +7,6 @@ func main() {
 	// MergeSorted()
 	// RemoveEls()
 	// RemoveDups()
-
-	RemoveDupsSorted()
+	// RemoveDupsSorted()
+	FindMajority()
 }
